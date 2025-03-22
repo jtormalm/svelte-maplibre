@@ -251,7 +251,7 @@
         </span>
 
         <Popup openOn="click" offset={[0, -10]}>
-          <div class="  text-on-surface-token flex justify-center items-center">
+          <div class="  text-black flex justify-center items-center">
             <span>{restaurant.name} {restaurant.category}</span>
           </div>
         </Popup>
